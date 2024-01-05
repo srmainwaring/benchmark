@@ -5,7 +5,7 @@ import re
 import shutil
 import sys
 
-from distutils import sysconfig
+import sysconfig
 import setuptools
 from setuptools.command import build_ext
 
